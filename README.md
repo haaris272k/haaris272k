@@ -1,7 +1,8 @@
-# Hi, I'm Haaris
+<h1 align="center">Hi, I'm Haaris 👋</h1>
 
-### Software x Reliability Engineering • Platform Systems • AI-Assisted Operations
-
+<h3 align="center">
+  Software & Reliability Engineering • Platform Systems • AI-Assisted Operations
+</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=900&lines=Backend+Engineering;Site+Reliability+Engineering;Platform+Engineering;Kubernetes+%26+Observability;AI-Assisted+Operations;Building+Reliable+Systems" />
 </p>
